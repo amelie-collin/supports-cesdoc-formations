@@ -1,14 +1,14 @@
-= Formations CES Doc
+= Formations CESDoc
 
 == Descriptions
 
-Ce repository Git sert à versionner les supports de formations dispensées par le Centre de documentation du Centre d'Economie de la Sorbonne (CESDoc). 
+Ce repository Git versionne les supports des formations aux compétences informationnelles dispensées par le Centre de documentation du Centre d'Economie de la Sorbonne (CES - UMR 8174). 
 
 
 == Notes
 
 Crédits:
 
-* Amélie COLLIN
+* Amélie COLLIN et Emilie Roux, Centre de documentation du CES (CESDoc)
 
-License :
+License : Creative Commons Attribution Share Alike 4.0 International
